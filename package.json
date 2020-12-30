@@ -18,6 +18,10 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.32",
+        "@fortawesome/free-solid-svg-icons": "^5.15.1",
+        "@fortawesome/vue-fontawesome": "^2.0.2",
+        "postcss-plugins": "^1.13.1",
         "vue": "^2.6.12"
     }
 }
